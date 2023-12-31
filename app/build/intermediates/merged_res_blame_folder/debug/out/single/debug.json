@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xhdpi_ic_logo_mandirinews.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xhdpi/ic_logo_mandirinews.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxxhdpi_ic_logo_mandirinews.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxxhdpi/ic_logo_mandirinews.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/layout_list_headline.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/layout/list_headline.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-hdpi_ic_logo_mandirinews.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-hdpi/ic_logo_mandirinews.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxhdpi_ic_logo_mandirinews_foreground.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxhdpi/ic_logo_mandirinews_foreground.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-mdpi_ic_logo_mandirinews_round.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-mdpi/ic_logo_mandirinews_round.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxxhdpi_ic_logo_mandirinews_foreground.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxxhdpi/ic_logo_mandirinews_foreground.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/layout_list_all_news.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/layout/list_all_news.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-anydpi-v26_ic_logo_mandirinews.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-anydpi-v26/ic_logo_mandirinews.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-hdpi_ic_logo_mandirinews_foreground.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-hdpi/ic_logo_mandirinews_foreground.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-anydpi-v26_ic_logo_mandirinews_round.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-anydpi-v26/ic_logo_mandirinews_round.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxxhdpi_ic_logo_mandirinews_round.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxxhdpi/ic_logo_mandirinews_round.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-mdpi_ic_logo_mandirinews.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-mdpi/ic_logo_mandirinews.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-hdpi_ic_logo_mandirinews_round.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-hdpi/ic_logo_mandirinews_round.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxhdpi_ic_logo_mandirinews.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxhdpi/ic_logo_mandirinews.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xhdpi_ic_logo_mandirinews_round.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xhdpi/ic_logo_mandirinews_round.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mandirinews.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xxhdpi_ic_logo_mandirinews_round.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xxhdpi/ic_logo_mandirinews_round.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-xhdpi_ic_logo_mandirinews_foreground.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-xhdpi/ic_logo_mandirinews_foreground.png"
+    },
+    {
+        "merged": "com.example.mandirinews.app-merged_res-59:/mipmap-mdpi_ic_logo_mandirinews_foreground.png.flat",
+        "source": "com.example.mandirinews.app-main-61:/mipmap-mdpi/ic_logo_mandirinews_foreground.png"
+    }
+]

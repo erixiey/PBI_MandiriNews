@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.mandirinews.app-mergeDebugResources-58:/layout/list_all_news.xml",
+        "source": "com.example.mandirinews.app-main-61:/layout/list_all_news.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-mergeDebugResources-58:/layout/list_headline.xml",
+        "source": "com.example.mandirinews.app-main-61:/layout/list_headline.xml"
+    },
+    {
+        "merged": "com.example.mandirinews.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.example.mandirinews.app-main-61:/layout/activity_main.xml"
+    }
+]
